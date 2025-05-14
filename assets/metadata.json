@@ -1,0 +1,6 @@
+{
+  "name": "Syrup USDC",
+  "symbol": "syrupUSDC",
+  "description": "Maple’s liquid yielding dollar",
+  "image": "https://raw.githubusercontent.com/maple-labs/maple-metadata/refs/heads/main/assets/syrupUSDC.svg"
+}
